@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: Decisoes Tecnicas
+message: >-
+  Se voce usar este trabalho e quiser cita-lo,
+  pode usar os metadados deste arquivo.
+type: software
+authors:
+  - given-names: Augusto
+    family-names: Florentino
+    email: contato@augustoflorentino.com
+    affiliation: augustoflorentino.com
+    orcid: 'https://orcid.org/0009-0000-4966-9299'
+repository-code: 'https://github.com/augustoflorentino/decisoes-tecnicas/'
+abstract: >-
+  Registro de decisoes tecnicas e analises de trade-offs.
+references:
+  - type: software
+    title: Architecture Decision Record (ADR)
+    authors:
+      - given-names: Joel Parker
+        family-names: Henderson
+    repository-code: 'https://github.com/joelparkerhenderson/architecture-decision-record/'
+    notes: >-
+      Repositorio de referencia para aprender sobre ADRs.
