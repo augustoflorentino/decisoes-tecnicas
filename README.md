@@ -7,6 +7,7 @@ Registro de decisoes tecnicas e analises de trade-offs.
 Os projetos aqui documentados estao em producao. Por questoes de privacidade, os nomes sao genericos.
 
 - [marketplace-alimenticio](projects/marketplace-alimenticio/) - B2C focado em produtos proximos da validade
+- [crm-whatsapp](projects/crm-whatsapp/) - Automacao WhatsApp com chatbot, disparador e CRM
 
 ## Templates
 
