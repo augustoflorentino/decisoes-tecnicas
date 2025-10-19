@@ -9,6 +9,7 @@ Os projetos aqui documentados estao em producao. Por questoes de privacidade, os
 - [marketplace-alimenticio](projects/marketplace-alimenticio/) - B2C focado em produtos proximos da validade
 - [crm-whatsapp](projects/crm-whatsapp/) - Automacao WhatsApp com chatbot, disparador e CRM
 - [gateway-pagamentos](projects/gateway-pagamentos/) - Orquestrador de pagamentos multi-adquirente
+- [analytics-eventos](projects/analytics-eventos/) - Plataforma de analytics para produtos SaaS
 
 ## Templates
 
