@@ -10,6 +10,7 @@ Os projetos aqui documentados estao em producao. Por questoes de privacidade, os
 - [crm-whatsapp](projects/crm-whatsapp/) - Automacao WhatsApp com chatbot, disparador e CRM
 - [gateway-pagamentos](projects/gateway-pagamentos/) - Orquestrador de pagamentos multi-adquirente
 - [analytics-eventos](projects/analytics-eventos/) - Plataforma de analytics para produtos SaaS
+- [api-notificacoes](projects/api-notificacoes/) - Servico centralizado de notificacoes multi-canal
 
 ## Templates
 
