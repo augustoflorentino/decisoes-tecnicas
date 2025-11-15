@@ -11,6 +11,7 @@ Os projetos aqui documentados estao em producao. Por questoes de privacidade, os
 - [gateway-pagamentos](projects/gateway-pagamentos/) - Orquestrador de pagamentos multi-adquirente
 - [analytics-eventos](projects/analytics-eventos/) - Plataforma de analytics para produtos SaaS
 - [api-notificacoes](projects/api-notificacoes/) - Servico centralizado de notificacoes multi-canal
+- [backoffice-saas](projects/backoffice-saas/) - Framework de backoffice reutilizavel
 
 ## Templates
 
