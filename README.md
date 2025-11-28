@@ -12,6 +12,7 @@ Os projetos aqui documentados estao em producao. Por questoes de privacidade, os
 - [analytics-eventos](projects/analytics-eventos/) - Plataforma de analytics para produtos SaaS
 - [api-notificacoes](projects/api-notificacoes/) - Servico centralizado de notificacoes multi-canal
 - [backoffice-saas](projects/backoffice-saas/) - Framework de backoffice reutilizavel
+- [sistema-agendamento](projects/sistema-agendamento/) - Reservas para clinicas e prestadores
 
 ## Templates
 
