@@ -15,6 +15,7 @@ Os projetos aqui documentados estao em producao. Por questoes de privacidade, os
 - [sistema-agendamento](projects/sistema-agendamento/) - Reservas para clinicas e prestadores
 - [gestao-documentos](projects/gestao-documentos/) - Upload, OCR e assinatura digital
 - [programa-fidelidade](projects/programa-fidelidade/) - Pontos, niveis e campanhas
+- [integracao-erp](projects/integracao-erp/) - Conectores SAP, TOTVS, Sankhya
 
 ## Templates
 
